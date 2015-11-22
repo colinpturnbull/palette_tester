@@ -1,4 +1,9 @@
 {
   "source": "src",
-  "destination": "build"
+  "destination": "build",
+  "plugins": {
+    "metalsmith-sass": {
+      "outputStyle": "expanded"
+    }
+  }
 }
