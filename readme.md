@@ -5,6 +5,11 @@ Palette Test is a tool that allows designers to view color palettes in a series 
 Palette test is compiled using metalsmith, so you'll need the latest stable version
 of node and npm.
 
+If you don't have npm installed already, I highly recommend managing node versions
+with nvm - node version manager.
+
 1. `$ brew install nvm`
 
 2. `$ nvm install stable`
+
+3. `$ npm install metalsmith`
