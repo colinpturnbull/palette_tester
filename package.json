@@ -1,0 +1,10 @@
+{
+  "name": "palette-tester",
+  "private": true,
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.2",
+    "node-static": "^0.7.7",
+    "metalsmith": "^2.1.0",
+    "metalsmith-sass": "^1.3.0"
+  }
+}
