@@ -8,8 +8,8 @@ of node and npm.
 If you don't have npm installed already, I highly recommend managing node versions
 with nvm - node version manager.
 
-1. `$ brew install nvm`
+1. `$ brew install nvm` will give you NVM
 
-2. `$ nvm install stable`
+2. `$ nvm install stable` will install latest npm version.
 
-3. `$ npm install metalsmith`
+3. `$ npm install` will install dependencies listed in package.json.
