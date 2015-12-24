@@ -5,6 +5,7 @@ Palette Test is a tool that allows designers to view color palettes in a series 
 Palette test is compiled using metalsmith, so you'll need the latest stable version
 of node and npm.
 
+#### Install Node
 If you don't have npm installed already, I highly recommend managing node versions
 with nvm - node version manager.
 
@@ -13,3 +14,6 @@ with nvm - node version manager.
 2. `$ nvm install stable` will install latest npm version.
 
 3. `$ npm install` will install dependencies listed in package.json.
+
+#### Install Grunt
+

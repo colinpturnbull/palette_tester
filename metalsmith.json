@@ -4,6 +4,12 @@
   "plugins": {
     "metalsmith-sass": {
       "outputStyle": "expanded"
+    },
+    "metalsmith-layouts":{
+      "engine":"handlebars"
+    },
+    "metalsmith-partial":{
+      "engine":"handlebars"
     }
   }
 }
