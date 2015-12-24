@@ -9,9 +9,9 @@
 	 overflow="visible" enable-background="new 0 0 1000 1000" xml:space="preserve">
 <defs>
 </defs>
-<rect fill="#1DD2AF" width="1000" height="1000"/>
-<path fill="#FFF200" d="M0,0L0,0l3.804,3.804c547.177,2.047,990.344,445.214,992.392,992.392L1000,1000V0H0z"/>
-<path fill="#E67E22" d="M1000,1000L1000,1000l-3.804-3.804C449.019,994.148,5.852,550.981,3.804,3.804L0,0v1000H1000z"/>
-<circle fill="#7B73B0" cx="500" cy="500" r="181"/>
-<circle fill="#F6B4C7" cx="500" cy="500" r="90.021"/>
+<rect class="tertiary" fill="#1DD2AF" width="1000" height="1000"/>
+<path class="primary" fill="#FFF200" d="M0,0L0,0l3.804,3.804c547.177,2.047,990.344,445.214,992.392,992.392L1000,1000V0H0z"/>
+<path class="secondary" fill="#E67E22" d="M1000,1000L1000,1000l-3.804-3.804C449.019,994.148,5.852,550.981,3.804,3.804L0,0v1000H1000z"/>
+<circle class="quaternary" fill="#7B73B0" cx="500" cy="500" r="181"/>
+<circle class="quinary" fill="#F6B4C7" cx="500" cy="500" r="90.021"/>
 </svg>

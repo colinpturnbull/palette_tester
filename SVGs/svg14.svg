@@ -9,11 +9,11 @@
 	 overflow="visible" enable-background="new 0 498.005 1000 1000" xml:space="preserve">
 <defs>
 </defs>
-<rect y="498.005" fill="#1DD2AF" width="1000" height="1000"/>
-<rect y="1497.048" fill="#1DD2AF" width="1000" height="1000"/>
-<path fill="#FFF200" d="M500,0C223.857,0,0,223.857,0,500h1000C1000,223.857,776.143,0,500,0z"/>
-<rect y="498.004" fill="#FFF200" width="500" height="500"/>
-<rect x="500" y="998.005" fill="#FFF200" width="500" height="500"/>
+<rect y="498.005" class="tertiary" fill="#1DD2AF" width="1000" height="1000"/>
+<rect y="1497.048" class="tertiary" fill="#1DD2AF" width="1000" height="1000"/>
+<path class="primary" fill="#FFF200" d="M500,0C223.857,0,0,223.857,0,500h1000C1000,223.857,776.143,0,500,0z"/>
+<rect y="498.004" class="primary" fill="#FFF200" width="500" height="500"/>
+<rect x="500" y="998.005" class="primary" fill="#FFF200" width="500" height="500"/>
 <rect x="999.999" y="498.005" fill="#00AEEF" width="0.001" height="316.354"/>
 <rect x="999.999" y="927.876" fill="#00AEEF" width="0.001" height="138.344"/>
 <rect x="999.999" y="1139.288" fill="#00AEEF" width="0.001" height="142.715"/>
@@ -21,11 +21,11 @@
 <rect x="999.998" y="814.36" fill="#00AEEF" width="0.002" height="113.517"/>
 <rect x="999.999" y="1066.22" fill="#00AEEF" width="0.001" height="73.068"/>
 <rect x="999.998" y="1282.004" fill="#00AEEF" width="0.002" height="122.175"/>
-<polygon fill="#FFF200" points="0,2497.048 500,2497.048 500,1497.048 "/>
-<rect y="998.005" fill="#E67E22" width="500" height="500"/>
-<path fill="#FFF200" d="M0,500h1000c0-0.666-0.01-1.33-0.013-1.995H0.013C0.01,498.67,0,499.334,0,500z"/>
-<polygon fill="#E67E22" points="500,1497.048 0,1497.048 0,2497.048 "/>
-<rect x="500" y="998.005" fill="#7B73B0" width="500" height="500"/>
-<polygon fill="#7B73B0" points="500,2497.048 1000,2497.048 1000,1497.048 "/>
-<rect x="500" y="747.048" fill="#F6B4C7" width="500" height="250"/>
+<polygon class="primary" fill="#FFF200" points="0,2497.048 500,2497.048 500,1497.048 "/>
+<rect y="998.005" class="secondary" fill="#E67E22" width="500" height="500"/>
+<path class="primary" fill="#FFF200" d="M0,500h1000c0-0.666-0.01-1.33-0.013-1.995H0.013C0.01,498.67,0,499.334,0,500z"/>
+<polygon class="secondary" fill="#E67E22" points="500,1497.048 0,1497.048 0,2497.048 "/>
+<rect x="500" y="998.005" class="quaternary" fill="#7B73B0" width="500" height="500"/>
+<polygon class="quaternary" fill="#7B73B0" points="500,2497.048 1000,2497.048 1000,1497.048 "/>
+<rect x="500" y="747.048" class="quinary" fill="#F6B4C7" width="500" height="250"/>
 </svg>

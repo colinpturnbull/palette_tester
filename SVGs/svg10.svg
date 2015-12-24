@@ -9,12 +9,12 @@
 	 overflow="visible" enable-background="new 0 0 1000 1000" xml:space="preserve">
 <defs>
 </defs>
-<rect fill="#1DD2AF" width="1000" height="1000"/>
-<rect y="999.043" fill="#1DD2AF" width="1000" height="1000"/>
-<path fill="#FFF200" d="M1001.995,1000L1001.995,1000l-3.804-3.804C451.014,994.148,7.847,550.981,5.8,3.804L1.995,0V1000H1001.995z
+<rect class="tertiary" fill="#1DD2AF" width="1000" height="1000"/>
+<rect y="999.043" class="tertiary" fill="#1DD2AF" width="1000" height="1000"/>
+<path class="primary" fill="#FFF200" d="M1001.995,1000L1001.995,1000l-3.804-3.804C451.014,994.148,7.847,550.981,5.8,3.804L1.995,0V1000H1001.995z
 	"/>
-<circle fill="#E67E22" cx="500" cy="500" r="220.154"/>
-<circle fill="#7B73B0" cx="768.826" cy="231.173" r="88.142"/>
-<circle fill="#7B73B0" cx="768.826" cy="231.173" r="88.142"/>
-<circle fill="#F6B4C7" cx="908.61" cy="91.39" r="51.642"/>
+<circle class="secondary" fill="#E67E22" cx="500" cy="500" r="220.154"/>
+<circle class="quaternary" fill="#7B73B0" cx="768.826" cy="231.173" r="88.142"/>
+<circle class="quaternary" fill="#7B73B0" cx="768.826" cy="231.173" r="88.142"/>
+<circle class="quinary" fill="#F6B4C7" cx="908.61" cy="91.39" r="51.642"/>
 </svg>

@@ -9,9 +9,9 @@
 	 overflow="visible" enable-background="new 0 0.957 1000 1000" xml:space="preserve">
 <defs>
 </defs>
-<rect x="0" y="0.957" fill="#1DD2AF" width="1000" height="1000"/>
-<polygon fill="#FFF200" points="1.188,1000.957 500.001,0.957 998.813,1000.957 "/>
-<polygon fill="#E67E22" points="500.001,310.582 155.633,1000.957 844.369,1000.957 "/>
-<polygon fill="#7B73B0" points="500,0 0,0 0,1000 "/>
-<polygon fill="#F6B4C7" points="500.001,597.652 299.305,1000 700.697,1000 "/>
+<rect x="0" y="0.957" class="tertiary" fill="#1DD2AF" width="1000" height="1000"/>
+<polygon class="primary" fill="#FFF200" points="1.188,1000.957 500.001,0.957 998.813,1000.957 "/>
+<polygon class="secondary" fill="#E67E22" points="500.001,310.582 155.633,1000.957 844.369,1000.957 "/>
+<polygon class="quaternary" fill="#7B73B0" points="500,0 0,0 0,1000 "/>
+<polygon class="quinary" fill="#F6B4C7" points="500.001,597.652 299.305,1000 700.697,1000 "/>
 </svg>

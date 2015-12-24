@@ -9,10 +9,10 @@
 	 overflow="visible" enable-background="new 0 0 1000 1000" xml:space="preserve">
 <defs>
 </defs>
-<rect fill="#1DD2AF" width="1000" height="1000"/>
-<circle fill="#FFF200" cx="500" cy="500" r="500"/>
-<circle fill="#E67E22" cx="500" cy="500" r="375"/>
-<circle fill="#7B73B0" cx="500" cy="500" r="250"/>
-<polygon fill="#7B73B0" points="1500,999.043 1000,999.043 1000,1999.043 "/>
-<circle fill="#F6B4C7" cx="500" cy="500" r="125"/>
+<rect class="tertiary" fill="#1DD2AF" width="1000" height="1000"/>
+<circle class="primary" fill="#FFF200" cx="500" cy="500" r="500"/>
+<circle class="secondary" fill="#E67E22" cx="500" cy="500" r="375"/>
+<circle class="quaternary" fill="#7B73B0" cx="500" cy="500" r="250"/>
+<polygon class="quaternary" fill="#7B73B0" points="1500,999.043 1000,999.043 1000,1999.043 "/>
+<circle class="quinary" fill="#F6B4C7" cx="500" cy="500" r="125"/>
 </svg>

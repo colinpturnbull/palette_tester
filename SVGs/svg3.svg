@@ -9,11 +9,11 @@
 	 overflow="visible" enable-background="new 0 0 1000 1000" xml:space="preserve">
 <defs>
 </defs>
-<rect fill="#1DD2AF" width="1000" height="1000"/>
-<polygon fill="#FFF200" points="0,0 0,1000 500,0 "/>
-<polygon fill="#FFF200" points="500,1000 1000,1000 1000,0 "/>
-<polyline fill="#E67E22" points="203.866,999.438 703.679,0 889.097,0 389.094,999.438 203.866,999.438 "/>
-<rect x="0.187" y="999.438" fill="#7B73B0" width="500" height="500.75"/>
-<polygon fill="#7B73B0" points="0,0 0,500.562 250.281,0 "/>
-<polygon fill="#F6B4C7" points="635.823,1000 1000,1000 1000,271.648 "/>
+<rect class="tertiary" fill="#1DD2AF" width="1000" height="1000"/>
+<polygon class="primary" fill="#FFF200" points="0,0 0,1000 500,0 "/>
+<polygon class="primary" fill="#FFF200" points="500,1000 1000,1000 1000,0 "/>
+<polyline class="secondary" fill="#E67E22" points="203.866,999.438 703.679,0 889.097,0 389.094,999.438 203.866,999.438 "/>
+<rect x="0.187" y="999.438" class="quaternary" fill="#7B73B0" width="500" height="500.75"/>
+<polygon class="quaternary" fill="#7B73B0" points="0,0 0,500.562 250.281,0 "/>
+<polygon class="quinary" fill="#F6B4C7" points="635.823,1000 1000,1000 1000,271.648 "/>
 </svg>
