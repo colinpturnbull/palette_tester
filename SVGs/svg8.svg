@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="1000px" height="1000px" viewBox="0 0.562 1000 1000"
+	 overflow="visible" enable-background="new 0 0.562 1000 1000" xml:space="preserve">
+<defs>
+</defs>
+<rect y="0.562" fill="#1DD2AF" width="1000" height="1000"/>
+<rect y="999.605" fill="#1DD2AF" width="1000" height="1000"/>
+<polygon fill="#FFF200" points="1000,1999.605 1000,999.605 1000,999.605 0,1999.605 "/>
+<rect y="0.562" fill="#FFF200" width="1000" height="500"/>
+<rect x="500" y="499.812" fill="#E67E22" width="500" height="500.75"/>
+<polygon fill="#E67E22" points="0.001,1999.605 500.001,1499.605 0.001,999.605 "/>
+<rect x="0.187" fill="#7B73B0" width="500" height="500.75"/>
+<rect x="73.818" y="573.785" transform="matrix(0.7071 0.7071 -0.7071 0.7071 604.1248 42.6376)" fill="#F6B4C7" width="353.553" height="353.553"/>
+<polygon fill="#F6B4C7" points="0.001,999.605 500.001,1499.605 500.001,999.605 "/>
+</svg>
